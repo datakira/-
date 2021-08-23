@@ -1,9 +1,9 @@
 # Bin packing optimize
 > Wiset ict project
 
-> Team Name:   최.초.다
+> Team Name: 최.초.다
 
-> Team Member: 정경희 차소륜 오혜민 전나영 최서연
+> Team Member: 차소륜 오혜민 전나영 최서연 정경희
 
 
 
