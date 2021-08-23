@@ -16,3 +16,4 @@
 
 **최적화 알고리즘**을 통해 원하는 기준에 맞게 택배 상자를 적재한다.
 
+![image](https://user-images.githubusercontent.com/65406000/130379076-19a4186d-ac2b-4888-9726-d814db0f2f83.png)
