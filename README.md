@@ -5,6 +5,14 @@
 
 > Team Member: 차소륜 오혜민 전나영 최서연 정경희
 
+## Team Members 
+
+<p align="left">
+<img src=https://img.shields.io/static/v1?label=&message=Soryun&color=red&style=flat height=22px>
+<img src=https://img.shields.io/static/v1?label=&message=Hyemin&color=orange&style=flat height=22px>
+<img src=https://img.shields.io/static/v1?label=&message=Nayoung&color=blue&style=flat height=22px>
+<img src=https://img.shields.io/static/v1?label=&message=Seoyoen&color=green&style=flat height=22px>
+<img src=https://img.shields.io/static/v1?label=&message=Kyunghee&color=yellow&style=flat height=22px>
 
 
 최근 폭발적인 물량 증가로 인해 택배 상차 시 많은 인력이 필요한 중에 있으며
